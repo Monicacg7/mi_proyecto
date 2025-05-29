@@ -4,3 +4,4 @@ VERDE
 AMARILLO
 NARANJA
 Morado
+rosa
