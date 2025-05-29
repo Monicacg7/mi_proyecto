@@ -5,3 +5,5 @@ AMARILLO
 NARANJA
 Morado
 rosa
+Cyan
+
